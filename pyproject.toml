@@ -1,0 +1,10 @@
+[project]
+name = "local-rag"
+version = "0.1.0"
+description = "Retrieval Augmented Generation running on a local model"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "scikit-learn>=1.7.2",
+    "sentence-transformers>=5.3.0",
+]
