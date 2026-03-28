@@ -1,2 +1,2 @@
 # local-rag
-Retrieval Augmented Generation running on a local modal
+Retrieval Augmented Generation running on a local model
