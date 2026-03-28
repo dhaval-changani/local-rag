@@ -4,46 +4,11 @@ A purple background with white text
 Description automatically generated
 The initial screen displayed upon opening the NOQ EPOS app showcases the primary interface for users. This application is designed to facilitate online payment transactions, offering a convenient and efficient way to handle payments for various businesses.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
 At this stage of the process, the Business owner or manager is provided with the login interface of the app. To access their respective businesses, they are required to enter their unique credentials, comprising a username and password, into the designated fields.
 
 Once the necessary login details have been inputted, the Business owner or manager needs to proceed by clicking on the "Login" button. This action will initiate the authentication process and grant them access to their specific business account within the app.
-
 Additionally, in the event that the Business owner or manager forgets their password, the app offers a convenient "Forgot Password" option. By selecting this option, they can initiate the password recovery process and reset their password, ensuring continued access to their account.
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
 Once the Business owner successfully logs into the EPOS app, they are directed to the main screen, which serves as the central hub for managing their business operations. At the top-left corner of the screen, the Business name is prominently displayed, providing a quick reminder of the currently accessed business entity. On the right side of the top toolbar, a "Sign Out" button is available, allowing the Business owner to securely log out of the app when needed.
 
 Directly below the top toolbar, three essential tabs are presented, each playing a crucial role in the business management process:
@@ -58,8 +23,6 @@ c) Independent Store: These standalone stores function independently without any
 
 By selecting the appropriate store from the list, the Business owner gains access to its specific configurations and details, allowing them to oversee and manage the operations of each store effectively.
 
- 
-
 
 Within the EPOS app, the "Sites" tab plays a significant role in managing the physical locations or venues where a business operates. This tab allows the Business owner to create and organise different types of sites, facilitating streamlined operations and providing a clear overview of their business presence. The three types of sites that can be managed are:
 
@@ -69,34 +32,8 @@ b) Independent Store Site: Independent stores can be grouped together in this ty
 
 c) Dependent Store Site: This site type serves as a collective space, such as a music festival or theater, where multiple stores serve a shared area, seats, or tables. Ordering settings are set at the site level and mirrored to the individual stores. Only site-dependent stores can be assigned to this type of site, and the "Activate Split Arrangement" option becomes available due to the nature of dependent store sites.
 
- 
-
 
 The "Invited Sites" tab in the EPOS app serves as a repository for sites that have been extended an invitation by one business to another. When businesses collaborate or share their venues, they can utilise this feature to manage and keep track of the invited sites easily.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Once a staff member has successfully logged in to the store by entering their unique 4-digit PIN, they will be directed to the initial screen designed for staff use. At the top of the screen, a keypad is prominently displayed, indicating its primary function for processing payments. The keypad serves as the means to input payment amounts and conduct transactions.
 
@@ -104,17 +41,11 @@ As a staff member, this screen serves as the starting point for their interactio
 
 Additionally, depending on the business's specific setup and the features enabled for staff members, this screen may also display other relevant options or functionalities. These could include access to order history, inventory management, discounts, or other transaction-related tools.
 
- 
-
- 
-
 When the staff member needs to process a payment of £10 from a customer, they can simply enter the amount using the keypad displayed on the app screen. Upon entering the payment amount, it will be visually indicated on the screen, allowing the staff member to confirm the correct value before proceeding with the transaction.
 
 However, if any errors occur during the entry or if there is a need to change the amount for any reason, the staff member can easily make adjustments by utilising the "Clear" button. By pressing this button, any previously entered amount will be cleared from the app, enabling the staff member to re-enter the correct payment value.
 
 Furthermore, the app offers an additional option for the staff member to add a note to the payment. This note function serves as a useful tool to include any relevant details or remarks related to the transaction. The staff member can use this feature to jot down specific information about the payment, such as the purpose of the transaction or any other pertinent details that may be helpful for future reference.
-
- 
 
 Once the staff member has entered the payment amount of £10, they will be presented with various options to process the payment. These options cater to different payment methods based on the customer's preferences. Here are the available payment options:
 
@@ -126,27 +57,9 @@ Telesales: The "Telesales" option allows the staff member to facilitate payments
 
 Each of these payment options caters to different customer preferences and payment scenarios, ensuring flexibility and convenience for both staff members and customers. The app's ability to handle various payment methods enables seamless transactions and enhances the overall efficiency of the payment process.
 
- 
-
 If the business owner or staff selects the "Card" payment option, the screen will transition to a new interface, prompting the customer to tap their card. This contactless payment method allows for quick and convenient transactions without the need to insert or swipe the card.
 
 Once the customer taps their card on the designated area of the payment terminal or device, the payment information is securely transmitted to the system for processing. The transaction is completed swiftly, and a confirmation message may appear on the screen to indicate the successful payment.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 When the business owner or staff selects the "Telesales" payment option, a pop-up window will be displayed on the screen, prompting the staff to gather the necessary card information from the customer. The staff will need to ask for the following details:
 
@@ -166,37 +79,15 @@ Submit: If the staff or business owner is confident that all the card details pr
 
 Once the payment is successfully authorised, the customer's card will be charged for the specified amount, and a payment confirmation will be displayed on the screen. This confirmation assures the staff and customer that the payment was completed successfully and the transaction is complete.
 
- 
-
 If the business owner or staff selects "Cash" as the payment method, it means they are accepting the payment in cash from the customer. This option is commonly used when customers pay for their purchases using physical currency (banknotes or coins).
 
 Upon selecting the "Cash" payment method, the staff will collect the cash amount from the customer, and then they can enter the cash received into the app. The app will automatically record this cash payment in the Point of Sale (POS) system and associate it with the respective transaction. This recording ensures that the transaction is properly accounted for in the Profit and Loss (P&L) reports.
 
 Cash transactions are vital for businesses as they constitute a significant portion of daily sales. Accurately recording cash transactions in the app and POS system is essential for maintaining financial records, managing inventory, and generating accurate P&L reports. The P&L report provides valuable insights into the business's financial performance, including revenue, expenses, and ultimately, the profitability of the business.
 
- 
-
- 
-
 After the order is completed, the business owner can access the "Past Orders" option by clicking on the hamburger menu located on the top left corner of the app's interface. This action will open a left-side panel, providing various options and functionalities for managing and reviewing past orders.
 
 The "Past Orders" option allows the business owner to view and access a comprehensive list of previously completed orders. When selected, it will display a screen that contains a chronological record of all the orders that have been processed by the business.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 After clicking on the "Past Orders" option, the business owner can access a detailed view of the selected past order. The screen will present a comprehensive summary of the order's particulars, providing crucial information to aid in efficient order management and customer service.
 
@@ -218,21 +109,7 @@ Paid VIA: Indicates the mode of payment chosen by the customer for this particul
 
 If the customer requires a printed copy of the bill for their reference or records, the business owner has the option to re-print the bill by clicking on the "Print" button. This functionality allows for convenient and quick access to the order's receipt, facilitating a seamless customer experience and providing a tangible record of the transaction.
 
- 
-
-When the user clicks on a specific order from the "Past Orders" list, a new window in the form of a pop-up will appear, displaying detailed information about the selected order. This pop-up serves as a comprehensive view of the entire order, providing essential insights for both the business owner and staff to efficiently manage the transaction. 
-
-The pop-up presents the following order details: 
-
-Menu Items: A comprehensive list of all the items included in the order, along with their names or descriptions. 
-
-Modifiers: If applicable, any modifications or customizations made to the menu items selected by the customer will be listed here. These modifiers could include special instructions, preferences, or variations tailored to the customer's request. 
-
-Quantity: The number of units or items ordered for each menu item, reflecting how many of each product the customer purchased. 
-
-Amount: The total amount associated with each menu item, calculated based on the individual item price and quantity. 
-
-This level of detail allows the business owner and staff to have a comprehensive understanding of the specific order, making it easier to manage inventory, track sales, and address any potential issues or discrepancies. The inclusion of modifiers ensures that any unique customer requests are accurately fulfilled, contributing to customer satisfaction and retention.
+When the user clicks on a specific order from the "Past Orders" list, a new window in the form of a pop-up will appear, displaying detailed information about the selected order. This pop-up serves as a comprehensive view of the entire order, providing essential insights for both the business owner and staff to efficiently manage the transaction.The pop-up presents the following order details:Menu Items: A comprehensive list of all the items included in the order, along with their names or descriptions.Modifiers: If applicable, any modifications or customizations made to the menu items selected by the customer will be listed here. These modifiers could include special instructions, preferences, or variations tailored to the customer's request.Quantity: The number of units or items ordered for each menu item, reflecting how many of each product the customer purchased.Amount: The total amount associated with each menu item, calculated based on the individual item price and quantity.This level of detail allows the business owner and staff to have a comprehensive understanding of the specific order, making it easier to manage inventory, track sales, and address any potential issues or discrepancies. The inclusion of modifiers ensures that any unique customer requests are accurately fulfilled, contributing to customer satisfaction and retention.
 
 When the staff clicks on the "Refund" button within the EPOS app, they will be presented with three different options to process the refund, each tailored to specific refund scenarios:
 
@@ -248,18 +125,6 @@ When the staff clicks on the "Refund by Item" option within the EPOS app, a comp
 
 Once the desired item(s) have been selected for refund, the staff can proceed by clicking on the "Refund" button. This action will trigger the refund process for the chosen item(s), ensuring that the specified amount is returned to the customer for the respective item(s).
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Partial refund is a convenient option provided by the EPOS app, enabling the business owner to process refunds for a specific transaction partially. This feature proves valuable when a customer is eligible for a refund of only a portion of the total amount paid.
 
 To initiate a partial refund, the business owner follows these simple steps:
@@ -272,8 +137,6 @@ Add Refund Note (Optional): Optionally, the business owner can include a refund 
 
 Process the Refund: After entering the refund amount (and optionally adding a refund note), the business owner can proceed by clicking on the "Refund" button. This action finalizes the partial refund, and the designated amount is credited back to the customer accordingly.
 
- 
-
 When a full refund is required for a transaction, the EPOS app provides a straightforward process for business owners to efficiently process the refund. Here's how it works:
 
 Select Transaction: The business owner locates the specific transaction for which a full refund is necessary from the list of past orders. This ensures that the correct transaction is chosen for the full refund.
@@ -285,8 +148,6 @@ Add Refund Note (Optional): Optionally, the business owner can include a refund 
 Initiate the Refund: Once the "Full Refund" option is selected, and if necessary, a refund note is added, the business owner can proceed by clicking on the "Refund" button. This action initiates the full refund process, and the entire amount paid by the customer will be credited back to them.
 
 By offering the "Full Refund" option, the EPOS app streamlines the refund process for business owners, making it easy to issue complete reimbursements to customers. Whether due to a change in order or a dissatisfied customer, the full refund feature ensures a seamless and customer-centric approach to handling transactions that require complete reimbursement.
-
- 
 
 Upon selecting a store from the options available (dependent site store, independent site store, or independent store), the EPOS app will direct the user to a screen with several key features:
 
@@ -303,29 +164,7 @@ Refresh: When the business owner makes changes in the online portal, such as upd
 
 Device Setting: The "Device Setting" option provides the business owner with the ability to configure specific settings related to different sections of the business. This feature empowers the business owner to customise the app according to the unique requirements of their establishment.
 
- 
-
 When the user clicks on the hamburger menu and selects the "Past Order" button, they will be presented with a comprehensive view of their previous orders. This feature allows business owners and staff to access detailed information about past transactions, enabling them to review, analyse, and manage order history efficiently.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 When the user clicks on the "Past Order" button from the hamburger menu, a new screen will appear with various filtering options to help business owners efficiently navigate and search through their order history. The following options will be available on this screen:
 
@@ -339,25 +178,9 @@ a) EPOS: By selecting "EPOS" from the drop-down, the app will display orders mad
 
 b) Mobile: If the business owner wants to view orders made through mobile devices such as Android or iOS phones, they can select "Mobile" from the drop-down. This option will filter the results to show only mobile orders.
 
- 
-
 When you want to filter orders based on specific dates, you can easily do so by clicking on the date field, which will open a calendar interface. This feature allows you to select the desired date or date range, refining the search results to display orders made on the chosen dates.
 
 Once you click on the date field, a calendar will pop up on the screen, showing the current month with the current date highlighted. You can navigate through different months by using the arrow buttons provided on the calendar. To choose a specific date, simply click on that date, and it will be selected as the filter criterion.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Once you have applied all the desired filters, the screen will display a comprehensive list of past orders. Each order will be represented with the following key details:
 
@@ -369,27 +192,7 @@ Amount: The Amount column will show the total transaction value of each order, r
 
 Status: The Status column indicates the current status of the order. If the payment for that particular order has been successfully completed, it will show "COMPLETED," indicating a successful transaction.
 
- 
-
 When the user navigates to the "Stock" section by clicking on the hamburger menu, they will enter the stock management interface. Here, the user can efficiently manage and monitor the inventory of their products and items. The stock management section offers a range of functionalities to ensure accurate stock tracking and optimization.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 In the "Stock" section of the app, the user can find two main sections: "Items" and "Modifiers."
 
@@ -399,37 +202,15 @@ Modifiers: The "Modifiers" section contains a list of modifiers that can be appl
 
 Both the "Items" and "Modifiers" sections have toggle buttons for each item and modifier, allowing the user to easily turn them on or off. If a staff member notices that a particular item is out of stock or a modifier is unavailable, they can toggle the corresponding button to "Off." This action will update the item's availability across all the Adyen terminals used by different staff members in the establishment.
 
- 
-
 In the "Stock" section of the app, there is a search box available at the top of both the "Items" and "Modifiers" sections. This search box allows the user to quickly find a specific modifier by typing its name or relevant keywords.
 
 In the "Modifiers" section, the user can see a comprehensive list of all available modifiers, along with their current stock status. Just like in the "Items" section, each modifier has a toggle button next to it, allowing the user to enable or disable the availability of that modifier.
 
 If a staff member discovers that a particular modifier, let's say "Modifier X," is currently out of stock, they can easily toggle the corresponding button to "Off." This action will update the modifier's availability across all Adyen terminals used by different staff members in the business.
 
- 
-
- 
-
- 
-
 To access the device settings, simply click on the hamburger menu located in the top left corner of the app. This will open a panel from which you can select the "Device Settings" option. Once you click on it, you will be directed to the device settings page, where various configurations related to the device will be available for customisation.
 
 The device settings section is crucial as it allows users, whether business owners, staff, or managers, to tailor the app's functionality and performance to their specific requirements.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Within the device settings section, users have access to various configuration options to optimise their device and tailor it to their business needs. Here's a brief overview of the available options:
 
@@ -449,37 +230,15 @@ Terms & Conditions: By clicking on this option, users can access and review the 
 
 Privacy Policy: Similarly, the privacy policy option allows users to access and understand the vendor's privacy practices. It outlines how user data is collected, stored, and used, ensuring transparency in data handling.
 
- 
-
 Upon clicking on the "Online Menu" option, users are presented with two sets of menus catering to specific ordering methods:
 
 Counter Ordering: In this section, users can explore a diverse range of items available for counter ordering. Each item is accompanied by its corresponding availability time specified on the right. This ensures that customers are informed about when each item can be ordered, based on the business's operating hours or other time constraints.
 
 Table Ordering: The Table Ordering section features a distinct set of items specifically designed for customers who prefer to order from their tables. Similar to the Counter Ordering menu, each item is associated with its respective availability time, ensuring customers are aware of when they can place their orders.
 
- 
-
- 
-
- 
-
- 
-
 After clicking on the "Terminal Menu" option, users are presented with a variety of menus, each containing its unique set of items. The business owner or staff can select any menu from the list, and that particular menu will become available for customers to order from the counter.
 
 By managing the menus through the Terminal Menu option, the business owner can easily switch between different menu offerings based on the time of day or other criteria. This enhances the customer experience as they get access to a relevant and up-to-date menu, ensuring they can make informed choices when placing their orders.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Upon clicking on the "Card Readers" option, users are presented with two distinct sections:
 
@@ -491,8 +250,6 @@ Select POIID: Within this section, the app displays the serial numbers of the Ad
 
 This integration of the EPOS app with Adyen devices ensures a reliable and seamless payment flow, enhancing the overall transaction experience for both customers and businesses alike. By providing these options, the EPOS app caters to the diverse needs of different establishments, offering a flexible and efficient payment processing solution tailored to their specific operational requirements.
 
- 
-
 When someone clicks on "Printers & Cash Drawer" within the device settings, they are presented with the following options:
 
 "Select printer to print customer receipts": In this section, users can configure the printer that will be used to print customer receipts. To begin, they should choose "cloud" from the first drop-down menu, indicating that the printer is connected to the cloud network. After selecting "cloud," the user can then choose from the list of available cloud printers to associate with the EPOS app. To ensure the printer is functioning correctly, they can perform a "Test Print" by clicking on the corresponding button. This will generate a small receipt labeled as "TEST PRINTER" to verify that the printer is operational and properly connected.
@@ -500,8 +257,6 @@ When someone clicks on "Printers & Cash Drawer" within the device settings, they
 "Select which cash drawer you want to connect with this device": In this section, users can configure the cash drawer that will be connected to the EPOS app. Similar to the printer setup, they should choose "cloud" from the first drop-down menu, indicating that the cash drawer is also connected to the cloud network. After selecting "cloud," they can then choose from the available cloud drawers to link with the EPOS app. To ensure proper functionality, they can test the cash drawer by clicking on the "TEST DRAWER" button. This will trigger a test operation to verify that the cash drawer is functioning correctly and properly integrated with the EPOS app.
 
 "Enter reference number text": In this input box, users have the option to enter a reference text that will be included in each customer receipt printed from the configured printer. This feature enables businesses to add a custom reference or message to their receipts, providing additional information or branding elements to enhance the customer experience.
-
- 
 
 When someone clicks on the "Functional Settings" button within the device settings, they are presented with various functional settings related to the app, which are as follows:
 
@@ -531,8 +286,6 @@ Telesales: This setting pertains to configuring and handling telesales transacti
 
 Others: The "Others" setting encompasses additional or alternative payment methods that are supported by the EPOS app. It could include options such as mobile wallets, loyalty points redemption, or any other unique payment solutions.
 
- 
-
 In the Payment Types section, you will find different payment options available for both Tabs and Keypad modes of the app.
 
 Payment Types for Tabs:
@@ -555,8 +308,6 @@ Card: Customers can pay for their orders using debit or credit cards.
 
 Telesales: Similar to Tabs, customers can provide card details over the phone for remote transactions.
 
- 
-
 In the Checkout Counter section, you have different options to customise the checkout process and receipt handling:
 
 Standard: The regular checkout process without any special features.
@@ -571,143 +322,25 @@ Super Quick Checkout - with receipts: The fastest checkout with printed receipts
 
 Lastly, there is an option to "Show Eat-In/Takeaway options in Counter." By activating this functionality (checkbox checked), the app will display options for customers to choose between Eat-In and Takeaway orders during the checkout process.
 
- 
-
 Next, there is an option to "Automatically send tickets after payment is completed." Once this functionality is activated (checkbox checked), you can select the number of copies to be sent to each printer after the payment is completed. The user can choose to send 0 to 5 copies as per the requirement.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Additionally, there is a section for "Number of copies for send to kitchen print receipts." Similar to the above option, the user can select the number of copies to be sent to the kitchen printer for order fulfilment. The user can choose to send 0 to 5 copies as per the requirement.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Once the user clicks on the hamburger menu on the top left and selects the "Reports" button, it will open a "Live Report" providing essential sales data, including:
 
 Product Sales Report: This report offers detailed insights into the sales based on individual products. It shows the quantity of each product sold, along with the total revenue generated from those sales. Businesses can use this report to identify the best-selling items and understand their customers' preferences.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Gross Sales Report: The Gross Sales report provides an overview of the total sales revenue generated within a specific time frame. It includes all sales before deducting any expenses or taxes. This figure represents the overall income generated from the business operations.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Net Sales Report: The Net Sales report displays the total sales revenue after subtracting various expenses and deductions, such as taxes, refunds, or discounts. It provides a more accurate representation of the business's actual profitability.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Cash Report: The Cash Report outlines all transactions made in cash. It includes details of cash received from customers, cash refunds, and any other cash-related activities. This report is valuable for cash management and reconciliation purposes.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 If the user wants to enable counter ordering, they need to follow these steps:
 
 Click on the hamburger menu located at the top left corner of the app.
 
 From the menu options, select the "Terminal" button.
-
- 
 
 To access the associated menu for counter ordering, the user needs to follow these steps:
 
@@ -717,25 +350,9 @@ From the drop-down options, select "Counter."
 
 Once "Counter" is selected, the associated menu for this specific store will be displayed. This menu will include a list of available items and their variants, which the staff can select from to take orders from customers at the counter. The menu ensures that all the items and their options are easily accessible for the staff, enabling them to efficiently handle counter orders and serve customers with ease.
 
- 
-
 After the user has selected an item, they have the option to choose a variant if applicable, and then proceed by clicking on the "Add Item" button. This action will add the selected item, along with its variant (if any), to the customer's order. The staff can then continue taking orders and adding items to the cart as needed.
 
 The "Add Item" button allows for a seamless and straightforward process of adding items to the order, making it convenient for both the staff and the customers during the counter ordering process.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Once an item is added and a variant is selected, a cart summary will be displayed at the bottom of the screen. This cart summary will show the name of the item, the quantity of that item selected, and a delete button next to each item in the cart.
 
@@ -743,41 +360,17 @@ The cart provides a quick overview of the items that have been added to the orde
 
 Having the cart readily available at the bottom of the screen ensures efficient order management during the counter ordering process, providing a user-friendly experience for both the staff and the customers.
 
- 
-
- 
-
- 
-
- 
-
 After clicking on the "Add Item" button, the app will redirect you back to the initial screen where you can view all the available items. The item that was previously selected will now be added to the cart, and you will see the cart summary at the bottom of the screen.
 
 The cart summary will display the total amount of the items in the cart and the quantity of items added. This allows the user to keep track of the order and make any necessary adjustments before proceeding with the payment.
 
 The ability to view the cart and its contents on the initial screen provides a convenient way to manage the order, allowing users to add more items, change quantities, or remove items as needed. This user-friendly interface streamlines the ordering process and enhances the overall experience for both the staff and customers.
 
- 
-
- 
-
- 
-
- 
-
 To view the cart and see all the added items, you need to click on the "View Cart" button. When you click on this button, a new screen will appear, displaying all the items that have been added to the cart.
 
 In the cart view, you will be able to see each item's name, quantity, and total price. This allows you to review the order before proceeding with the payment. If you want to make any changes to the order, such as adding more items, updating quantities, or removing items, you can do so from the cart view.
 
 The "View Cart" feature provides a clear and organized overview of the order, making it easy for users to verify the details before finalizing the transaction. It ensures accuracy and helps prevent any errors in the order process.
-
- 
-
- 
-
- 
-
- 
 
 When the user clicks on the "Add Discount" button, a discount screen will appear. Discounts can be applied in two ways:
 
@@ -793,25 +386,11 @@ A number keypad is provided to enter the percentage or amount for the discount. 
 
 Once the desired discount value is entered and the user is ready to apply it, they can click the "Add" button to add the discount to the order.
 
- 
-
 When the user clicks on the "Select Item" button, a new screen will open with two options for organising and finding items: "By Category" and "By Item."
 
 If the user selects "By Category," they will see a list of categories, such as "Tomato" and "Cheese," and each category will have a checkbox next to it. The user can select one or multiple categories by checking the corresponding checkboxes.
 
 Once the desired categories are selected, the user can click on the "Select" button located at the bottom of the screen. By clicking this button, the user applies the discount to all the items within the selected categories.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 If the user selects "By Items," they will see a list of individual items, such as "Italian Pizza," and each item will have a checkbox next to it. Additionally, the number of items in stock for each product is specified right next to its name.
 
@@ -819,105 +398,17 @@ The user can select one or multiple items by checking the corresponding checkbox
 
 Once the desired items and quantities are selected, the user can click on the "Select" button located at the bottom of the screen. By clicking this button, the discount will be applied to the selected items with their respective quantities.
 
- 
-
- 
-
- 
-
- 
-
- 
-
 Exactly, if the staff wants to give a discount to all the items together based on a specific amount, they can do so by selecting the pound symbol button at the top of the discount screen. Upon clicking the pound symbol button, a numeric keypad will appear, allowing the staff to enter the amount of the discount in pounds.
 
 Once the staff enters the desired amount, they can click on the "Add" button. This action will apply the discount to the subtotal, reducing the overall amount by the specified discount value in pounds.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Absolutely, if the staff wants to give a discount to all the items together based on a percentage, they can do so by selecting the percentage (%) symbol button at the top of the discount screen. Upon clicking the percentage symbol button, a numeric keypad will appear, allowing the staff to enter the percentage of the discount.
 
 Once the staff enters the desired percentage, they can click on the "Add" button. This action will apply the discount as a percentage to the subtotal, reducing the overall amount by the specified percentage.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 The discount amount cannot exceed the subtotal of the items in the cart. The discount is applied to reduce the total amount of the purchase, but it cannot result in a negative value or reduce the subtotal to an amount lower than zero.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 The discount percentage cannot exceed 100%. A discount of 100% means that the entire cost of the items in the cart would be discounted, effectively making them free.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Different types of fixed percentages can be configured, such as:
 
@@ -929,43 +420,9 @@ VVIP manually
 
 Each of these options allows for specific types of discounts, giving businesses greater flexibility in applying fixed percentage discounts to various scenarios.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 In the top right corner, you'll find a delete button that allows you to clear the entire cart with a single click. Additionally, you'll notice two buttons labeled "Eat-in" and "Takeaway," each configured through the portal to apply the appropriate VAT percentage.
 
 Moreover, there's an option to add additional information to the cart by clicking on "Add Info to cart," enabling you to provide specific details or instructions related to the order.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 When the user clicks on the "Add Tip" button inside the cart, a popup for the tip section will appear. There are two ways to add the tip: either by a percentage basis or by a specific amount.
 
@@ -973,89 +430,11 @@ To add the tip, the user can use the keypad to enter the desired percentage or a
 
 Once the tip amount is specified, the user can click on the "Confirm" button to include the tip in the subtotal, and it will be added to the payment total accordingly.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 When the user clicks on the "Confirm" button inside the popup and enters £10 as the tip amount, the system will add £10 as the tip to the subtotal of the payment. The total amount to be charged will include the tip, and the transaction will proceed accordingly.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 If the user selects 10% as the tip and clicks on the "Confirm" button inside the popup, the system will calculate 10% of the subtotal and add it as the tip to the subtotal of the payment. The total amount to be charged will include the tip based on the percentage chosen by the user.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 After adding the tip, when the user clicks on the "Charge" button, the payment for the order will be processed using the selected payment method (Cash, Card, or Telesales).
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 This screen displays the available payment options, including the "Cash" and "Card" buttons, as well as other payment methods accessible through the dropdown menu next to these buttons. Additionally, there is an option to split the payment if needed.
 
@@ -1067,125 +446,17 @@ The "Add Payment" button is currently disabled as no payment method has been sel
 
 The "Done" button will remain inactive until the payment process is completed, ensuring that no further actions are taken until the transaction is finished successfully.
 
- 
-
 In addition to the "Cash" and "Card" payment options, there are other payment methods available through the dropdown menu next to these buttons. These options include "Telesales," "Other," and "Training." By clicking on the dropdown button, users can access and select these alternative payment methods for processing transactions.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Once a payment method is selected using the "Add Payment" button, it will become enabled. Additionally, in the payment section, "Split X1" is displayed, indicating that a single person will be responsible for paying the entire amount for the transaction. This suggests that the payment will not be divided among multiple individuals; rather, one person will cover the total payment.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 When someone clicks on the (-) or (+) button to split the payment, the number of people sharing the payment can be adjusted. If the (+) button is clicked, it will add another person, and the display will change to "Split X2," indicating that the amount will now be divided into two shares, each to be paid by a different person. This feature allows for easy splitting of the payment among multiple individuals, making it convenient for group payments.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 When someone clicks on the Email button, a popup window will open, allowing the user to enter any email address of their choice. After entering the email address, they can click on the Send button. This action will trigger an email to be sent to the provided email address, containing the details of the order or payment receipt. It enables the convenient sharing of order information with customers or others via email.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Once someone clicks on the "Add Payment" button after selecting the preferred payment method, the payment will be processed, and the transaction will be completed. The payment amount will be deducted from the chosen payment source (e.g., cash, card, telesales, etc.), and the order will be considered successfully paid for. At this point, the "Done" button will become enabled, indicating that the payment process is complete. The user can then click on the "Done" button to finalize the order and conclude the transaction.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Once the order is completed, the business owner can click on the hamburger menu located on the top left corner of the screen. This action will open a side panel from the left where they can see the option for "Past Orders."
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 In the "Past Orders" section, there are several filtering options to view and manage past orders:
 
@@ -1206,8 +477,6 @@ Below these filtering options, a table displays the list of past orders, featuri
 "Amount": The total amount of the order is displayed.
 
 "Status": The status of the order is indicated as "COMPLETED" if the order has been successfully processed.
-
- 
 
 Once you click on a specific order from the "Past Orders" list, you can view more detailed information about that order, including:
 
@@ -1233,48 +502,8 @@ Print: The option to print a receipt or invoice for this order.
 
 These details and options allow the business owner or staff to have a comprehensive view of the order and manage it accordingly.
 
- 
-
 The Term and Condition page serves as a comprehensive document that outlines all the rules, regulations, and agreements related to the vendor application. This page is essential for ensuring a clear understanding of the rights and responsibilities of both the company and the vendors using the application. It provides a legally binding framework that governs the usage and interaction between the parties involved.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 The Privacy Policy page serves as a comprehensive document that outlines all the policies related to the collection, usage, and protection of personal information within the vendor application. This page is essential for ensuring transparency and building trust with the vendors using the application. It provides vendors with a clear understanding of how their personal data will be handled and safeguarded.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  

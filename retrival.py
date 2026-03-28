@@ -34,4 +34,4 @@ def retrieve(query: str, top_k: int = 3) -> list[dict]:
 results = retrieve("what are store types?", 5)
 
 for r in results:
-    print(f"Text: {r['text'][:100]}, Score: {r['score']:.4f}\n")
+    print(f"Text: {r['text']}, Score: {r['score']:.4f}\n")
