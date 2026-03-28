@@ -7,6 +7,8 @@ import pickle
 
 load_dotenv()
 
+model_name = os.getenv("SENTENCE_TRANSFORMER_MODEL")
+
 
 def parse_text_into_sentences(fileName: str):
     sentences = []
