@@ -3,6 +3,7 @@ from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import pickle
 
 load_dotenv()
 
@@ -24,14 +25,15 @@ def load_model():
     return SentenceTransformer("all-MiniLM-L6-v2")
 
 
+def save_embeddings(sentences, embeddings, fileName):
+    with open(fileName, 'wb') as f:
+        pickle.dump({"text": sentences, "embeddings": embeddings}, f)
+
+
 sentences = parse_text_into_sentences("data.txt")
 
 model = load_model()
 
 embeddings = model.encode(sentences)
 
-sim_1 = cosine_similarity([embeddings[0]], [embeddings[1]])[0][0]
-sim_2 = cosine_similarity([embeddings[0]], [embeddings[2]])[0][0]
-
-print(f'similar sentences: {sim_1:.3f}')
-print(f'unrelated sentences: {sim_2:.3f}')
+save_embeddings(sentences, embeddings, "pickle_dup.pkl")
