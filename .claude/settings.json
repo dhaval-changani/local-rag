@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /Users/dhaval.changani/Documents/Projects/local-rag/*.py /Users/dhaval.changani/Documents/Projects/local-rag/*.toml)",
+      "Bash(find /Users/dhaval.changani/Documents/Projects/local-rag -maxdepth 2 -name test* -o -name *test*)"
+    ]
+  }
+}
