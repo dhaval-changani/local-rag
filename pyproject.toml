@@ -12,6 +12,4 @@ dependencies = [
 ]
 
 [project.scripts]
-generate = "main.generate:cli"
-retrieve = "main.retrieve:cli"
-query = "main.query:cli"
+rag = "main:main"
