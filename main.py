@@ -25,9 +25,7 @@ def run_generate(config):
     print("Done.")
 
 
-def run_query(config):
-    retrieval = Retrieval(config)
-    llm = LLM(config, "You are a helpful assistant")
+def run_query(retrieval, llm):
     print("Query mode started. Type 'clear' to reset history, 'exit' to return to main menu.\n")
 
     while True:
@@ -41,7 +39,7 @@ def run_query(config):
             print("Conversation history cleared.")
             continue
 
-        retrieval_response = retrieval.retrieve(user_input, 5)
+        retrieval_response = retrieval.retrieve(user_input, 3)
         response = llm.generate_response(user_input, retrieval_response)
         for chunk in response:
             if chunk is not None:
@@ -53,6 +51,10 @@ def main():
     print("=== Local RAG ===")
     print_help()
     config = Config()
+    print("Loading models...")
+    retrieval = Retrieval(config)
+    llm = LLM(config, "You are a helpful assistant")
+    print("Ready.\n")
 
     while True:
         try:
@@ -64,7 +66,7 @@ def main():
         if cmd == "generate":
             run_generate(config)
         elif cmd == "query":
-            run_query(config)
+            run_query(retrieval, llm)
         elif cmd == "help":
             print_help()
         elif cmd == "exit":

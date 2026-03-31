@@ -20,12 +20,10 @@ class Retrieval():
         self.model = self.embeddings.model
         self.store = self.embeddings.load_embeddings()
 
-    def retrieve(self, query: str, top_k: int = 3) -> list[dict]:
+    def retrieve(self, query: str, top_k: int = 3):
         query_embedding = self.model.encode([query])
         text = self.store['text']
         embeddings = self.store['embeddings']
         scores = cosine_similarity(query_embedding, embeddings)[0]
         top_indices = np.argsort(scores)[::-1][:top_k]
-        return [
-            {"text": text[i], "score": float(scores[i])} for i in top_indices
-        ]
+        return [{"text": text[i], "score": scores[i]} for i in top_indices]
